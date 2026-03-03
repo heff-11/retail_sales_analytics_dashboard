@@ -166,20 +166,6 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue])
 
 ---
 
-# 💡 What This Project Demonstrates
-
-This project showcases:
-
-✔ End-to-end analytics workflow  
-✔ Database integration with BI tools  
-✔ SQL-based metric validation  
-✔ DAX measure development  
-✔ Dashboard layout and formatting  
-✔ Business insight communication  
-✔ Git-based version control  
-
----
-
 # 👤 Author
 
 **Will Heffern**  
